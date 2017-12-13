@@ -7,3 +7,5 @@ The dataset I used in this project is from a challenge held by the Computational
 * diagnosis code
 * type
 * sentences indicating the code
+
+I used supprot vector machine to classify ICD code in this project.
