@@ -9,3 +9,7 @@ The dataset I used in this project is from a challenge held by the Computational
 * sentences indicating the code
 
 I used support vector machine to classify ICD code in this project.
+
+ICD9_classification.ipynb (Jupiter notebook)
+icd9_svm.pkl (pickle file for svm model)
+ICD9_svm.py (python file for flask api)
